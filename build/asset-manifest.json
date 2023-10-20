@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.756bf79c.css",
+    "main.js": "/static/js/main.ee5d5a80.js",
+    "static/js/787.cda612ba.chunk.js": "/static/js/787.cda612ba.chunk.js",
+    "static/media/slider1.jpg": "/static/media/slider1.a9f178e3e3ec2fc0861b.jpg",
+    "static/media/loginBackgroundPhone.jpg": "/static/media/loginBackgroundPhone.7093311abdd60b4ec3c8.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.72dc258c342facc57f1f.jpg",
+    "static/media/loginBackground.jpg": "/static/media/loginBackground.ed407122b9259e04af8a.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.33036bcee7be8b6b28e8.jpg",
+    "static/media/outdoorFurniture.png": "/static/media/outdoorFurniture.80b50ef1f3483adb0631.png",
+    "static/media/officeTable.png": "/static/media/officeTable.714d048f37a0a55590bb.png",
+    "static/media/desk.png": "/static/media/desk.f280fac26f61b87f7a60.png",
+    "static/media/swing.png": "/static/media/swing.b0975870c48e082b6a32.png",
+    "static/media/bed.png": "/static/media/bed.87e8cec2ce3f4cdd0c09.png",
+    "static/media/card1.jpg": "/static/media/card1.f374e2aa1a8eadd29252.jpg",
+    "static/media/storage.png": "/static/media/storage.1af7d4e4db272ff78505.png",
+    "static/media/card2.jpg": "/static/media/card2.c16c72380f3add30b52d.jpg",
+    "static/media/card3.jpeg": "/static/media/card3.1e36099b09a077e8dc4b.jpeg",
+    "static/media/alfa.png": "/static/media/alfa.5fd90a891a197ff26699.png",
+    "static/media/godrej.png": "/static/media/godrej.a85b3639b4cb1a896741.png",
+    "static/media/zorin.png": "/static/media/zorin.0b10969387c107f94e6e.png",
+    "static/media/logo.png": "/static/media/logo.125a7193bfd3c3f0fae9.png",
+    "index.html": "/index.html",
+    "main.756bf79c.css.map": "/static/css/main.756bf79c.css.map",
+    "main.ee5d5a80.js.map": "/static/js/main.ee5d5a80.js.map",
+    "787.cda612ba.chunk.js.map": "/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.756bf79c.css",
+    "static/js/main.ee5d5a80.js"
+  ]
+}
